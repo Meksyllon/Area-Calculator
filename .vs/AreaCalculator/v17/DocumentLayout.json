@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\AreaCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D245FFA6-6014-4D05-9892-2F9F0F27E7F5}|AreaCalculator\\AreaCalculator.csproj|d:\\c#\\areacalculator\\areacalculator\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D245FFA6-6014-4D05-9892-2F9F0F27E7F5}|AreaCalculator\\AreaCalculator.csproj|solutionrelative:areacalculator\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D245FFA6-6014-4D05-9892-2F9F0F27E7F5}|AreaCalculator\\AreaCalculator.csproj|d:\\c#\\areacalculator\\areacalculator\\figures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D245FFA6-6014-4D05-9892-2F9F0F27E7F5}|AreaCalculator\\AreaCalculator.csproj|solutionrelative:areacalculator\\figures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B43ABD-176D-4B0B-ACC5-4EE17CF0F1C0}|ShapeAreaTests\\ShapeAreaTests.csproj|d:\\c#\\areacalculator\\shapeareatests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B43ABD-176D-4B0B-ACC5-4EE17CF0F1C0}|ShapeAreaTests\\ShapeAreaTests.csproj|solutionrelative:shapeareatests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D245FFA6-6014-4D05-9892-2F9F0F27E7F5}|AreaCalculator\\AreaCalculator.csproj|d:\\c#\\areacalculator\\areacalculator\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D245FFA6-6014-4D05-9892-2F9F0F27E7F5}|AreaCalculator\\AreaCalculator.csproj|solutionrelative:areacalculator\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "D:\\C#\\AreaCalculator\\ShapeAreaTests\\Tests.cs",
+              "RelativeDocumentMoniker": "ShapeAreaTests\\Tests.cs",
+              "ToolTip": "D:\\C#\\AreaCalculator\\ShapeAreaTests\\Tests.cs",
+              "RelativeToolTip": "ShapeAreaTests\\Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:44:22.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFigure.cs",
+              "DocumentMoniker": "D:\\C#\\AreaCalculator\\AreaCalculator\\IFigure.cs",
+              "RelativeDocumentMoniker": "AreaCalculator\\IFigure.cs",
+              "ToolTip": "D:\\C#\\AreaCalculator\\AreaCalculator\\IFigure.cs",
+              "RelativeToolTip": "AreaCalculator\\IFigure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:38:00.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "D:\\C#\\AreaCalculator\\AreaCalculator\\Figure.cs",
+              "RelativeDocumentMoniker": "AreaCalculator\\Figure.cs",
+              "ToolTip": "D:\\C#\\AreaCalculator\\AreaCalculator\\Figure.cs",
+              "RelativeToolTip": "AreaCalculator\\Figure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:09:05.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figures.cs",
+              "DocumentMoniker": "D:\\C#\\AreaCalculator\\AreaCalculator\\Figures.cs",
+              "RelativeDocumentMoniker": "AreaCalculator\\Figures.cs",
+              "ToolTip": "D:\\C#\\AreaCalculator\\AreaCalculator\\Figures.cs",
+              "RelativeToolTip": "AreaCalculator\\Figures.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:26:46.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
